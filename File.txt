@@ -1,3 +1,5 @@
 valami
 <?php
+echo
+echo
 ?>
