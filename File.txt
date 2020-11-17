@@ -1,5 +1,0 @@
-valami
-<?php
-echo
-echo
-?>
