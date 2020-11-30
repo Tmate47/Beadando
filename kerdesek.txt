@@ -1,0 +1,10 @@
+Melyik a legnagyobb állat a földön?;Elefánt;Kék bálna;Szürke bálna;Zsiráf;Kék bálna
+Mi Izland fővárosa?;Bagdad;Fokváros;Reykjavík;Ljubljana;Reykjavík
+Melyik bolygó van legközelebb a naphoz?;Jupiter;Vénusz;Uránusz;Merkúr;Merkúr
+Melyik elemnek a vegyjele az "O"?;Oxigén;Nitrogén;Hidrogén;Ólom;Oxigén
+Melyik híres esemény történt 1526-ban?;Eger ostroma;56-os forradalom;Mohácsi vész;tatárjárás;Mohácsi vész
+Ki festette a Mona Lisa című festményt?;Raffaello Sanzio;Michelangelo Buonarroti;Sandro Botticelli;Leonardo da Vinci;Leonardo da Vinci
+Hány játékos tartozik egy rögbi csapatba?;11;12;13;14;13
+Melyik az a vitamin amelyet nem találsz meg a tojásban?;D-vitamin;C-vitamin;E-vitamin;A-vitamin;C-vitamin
+Milyen szín észlelhető a világ zászlóinak 75%-án?;Zöld;Kék;Piros;Fehér;Piros
+Melyik a legtöbbet beszélt nyelv a világon?;Angol;Arab;Hindi;Mandarin;Mandarin

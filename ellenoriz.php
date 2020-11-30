@@ -1,0 +1,14 @@
+<?php
+session_start();
+if(isset($_GET["ellenor"])){
+    $db=0;
+    $szamlalo=0;
+    while(isset($_GET["{$db}"])){
+        if($_SESSION["kerdesek"][$db][5]==$_GET["{$db}"][0])
+        $szamlalo++;
+        $db++;
+    }
+    $_SESSION["osszpont"]=$szamlalo;
+    header("Location:Beadando.php");
+}
+?>
